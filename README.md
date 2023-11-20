@@ -1,4 +1,4 @@
-# DrugClassificationRandomForest
+# Drug Classification by Random Forest
 Modelo de **random forest classifier**
 
 # Objetivo:
